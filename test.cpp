@@ -11,6 +11,7 @@ int main() {
     cout << "GCD: " << gcd(20, 15) << endl;
     cout << "LCM: " << lcm(4, 6) << endl;
     cout << "Random number (1 to 10): " << generateRandom(1, 10) << endl;
+    cout << "Square of " << x << " is " << square(x) << endl;
 
     return 0;
 }
