@@ -1,5 +1,6 @@
 #include "calculator.h"
 #include <stdexcept>
+#include <cmath>
 #include <cstdlib> // for rand()
 #include <ctime>   // for time()
 using namespace std;
