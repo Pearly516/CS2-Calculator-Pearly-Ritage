@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Pearly\Desktop\CS2-Calculator-Pearly-Ritage\test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Pearly\Desktop\CS2-Calculator-Pearly-Ritage\calculator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Pearly\Desktop\CS2-Calculator-Pearly-Ritage\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1FEC6610-DCBA-312F-857A-9F0C0F9ECF82}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

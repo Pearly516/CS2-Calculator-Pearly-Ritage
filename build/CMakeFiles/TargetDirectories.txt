@@ -1,0 +1,3 @@
+C:/Users/Pearly/Desktop/CS2-Calculator-Pearly-Ritage/build/CMakeFiles/calculator.dir
+C:/Users/Pearly/Desktop/CS2-Calculator-Pearly-Ritage/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Pearly/Desktop/CS2-Calculator-Pearly-Ritage/build/CMakeFiles/ZERO_CHECK.dir
